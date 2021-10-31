@@ -1,6 +1,6 @@
 {
-  "token": "",
-  "prefix": "!",
+  "token": "OTA0MzQyNTg1MDg5MzM1MzI5.YX6Iqg.Xx7zYpEoAWZNpi3NuH05c409XTM",
+  "prefix": "//",
   "ksoftapi": "",
   
   
@@ -9,14 +9,14 @@
       {
          "host": "localhost",
          "port": 2333,
-         "password": "youshallnotpass"
+         "password": "Akusayangkamuloveyous"
        }
      ]
   },
 
   "spotify": {
-    "clientSecret": "",
-    "clientID": ""
+    "clientSecret": "Xc3MVdwXBeM_7Xsy_EbV95Dsa2SIhIoH",
+    "clientID": "904342585089335329"
   }
 
 }
